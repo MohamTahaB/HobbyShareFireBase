@@ -1,5 +1,6 @@
-# <img align="left" alt="codeSTACKr | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />Instagram-clone
+#HobbyShare school project
 
+Android version of HobbyShare school project based on an Instagram clone, backend by firebase currently linked to my project's backend, but work is still in progress (front end)
 ## Installation Guide
 1. Clone repository
 2. Open the Project in your android studio
@@ -9,9 +10,7 @@
 6. Download the file google-service.json from firebase project setting and import into your project
 7. IMPORTANT FOR NOTIFICATION:- Copy Server key from Firebase/Project Setting/cloudmessaging/ and paste it in APIService.java class
 
-## Connect with me:
-[<img align="left" alt="androrealm | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://rb.gy/r4yzzi)
-[<img align="left" alt="dshakir52 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dshakir52/).
+
 
 ## Features
 1. Login, Signup,Logout,Forgot password (with email verification)
@@ -98,5 +97,3 @@ Show your support by 🌟 the project!!
 Feel free to contribute!
 
 
-## License
-InstagramClone is available under the [MIT License](LICENSE), see LICENSE for more infomation.
